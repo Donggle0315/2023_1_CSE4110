@@ -1,0 +1,12 @@
+drop table loading;
+drop table shipment;
+drop table content;
+drop table packing;
+drop table product;
+drop table refund;
+drop table take_back;
+drop table package;
+drop table service;
+drop table past_deal;
+drop table monthly_contract;
+drop table customer;
